@@ -23,6 +23,8 @@ create table contact(Id int not null identity(1,1) primary key, firstname varcha
  
  -- Insert login
  insert into login (username, password, ContactId)
- values('levj1', HASHBYTES('SHA1', 'secure'), 1)
+ values('levj1', HASHBYTES('SHA2_512', 'secure'), 2)
+ insert into login (username, password, ContactId)
+ values('edcr', HASHBYTES('SHA2_512', 'pass'), 2)
 
   select * from login
