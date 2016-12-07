@@ -1,0 +1,6 @@
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WinFormApp\bin\Debug\WinFormApp.exe.config
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WinFormApp\bin\Debug\WinFormApp.exe
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WinFormApp\bin\Debug\WinFormApp.pdb
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WinFormApp\obj\Debug\WinFormApp.csprojResolveAssemblyReference.cache
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WinFormApp\obj\Debug\WinFormApp.exe
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WinFormApp\obj\Debug\WinFormApp.pdb

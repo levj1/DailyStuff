@@ -1,0 +1,6 @@
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.pdb
