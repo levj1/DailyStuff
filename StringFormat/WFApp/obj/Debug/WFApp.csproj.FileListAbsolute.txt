@@ -9,3 +9,15 @@ C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WFApp\obj\Debug\W
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WFApp\obj\Debug\WFApp.pdb
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WFApp\bin\Debug\ClassLibrary.exe
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\WFApp\bin\Debug\ClassLibrary.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\bin\Debug\WFApp.exe.config
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.csprojResolveAssemblyReference.cache
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.AddContactForm.resources
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.Properties.Resources.resources
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.Test.resources
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\obj\Debug\WFApp.csproj.GenerateResource.Cache
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\bin\Debug\WFApp.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\bin\Debug\WFApp.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\bin\Debug\ClassLibrary.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\WFApp\bin\Debug\ClassLibrary.pdb

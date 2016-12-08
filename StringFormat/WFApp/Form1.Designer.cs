@@ -210,6 +210,7 @@
             this.Controls.Add(this.lblFirstName);
             this.Name = "AddContactForm";
             this.Text = "Add Contact";
+            this.Load += new System.EventHandler(this.AddContactForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

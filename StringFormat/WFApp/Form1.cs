@@ -17,11 +17,12 @@ namespace WFApp
         public AddContactForm()
         {
             InitializeComponent();
+            
         }
 
         private void lblState_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void btnAddContact_Click(object sender, EventArgs e)
@@ -80,6 +81,12 @@ namespace WFApp
             if (email.IndexOf('@') > 0 && email.IndexOf('.') > 0)
                 isValid = true;
             return isValid;
+        }
+
+        private void AddContactForm_Load(object sender, EventArgs e)
+        {
+            new Test().Show(); 
+
         }
     }
 }

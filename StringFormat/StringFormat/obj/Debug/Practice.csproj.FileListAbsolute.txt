@@ -3,3 +3,9 @@ C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\StringFormat\bin\
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\StringFormat\bin\Debug\StringFormat.pdb
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\StringFormat\obj\Debug\StringFormat.exe
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\StringFormat\obj\Debug\StringFormat.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\StringFormat\bin\Debug\StringFormat.exe.config
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\StringFormat\obj\Debug\StringFormat.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\StringFormat\obj\Debug\StringFormat.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\StringFormat\bin\Debug\StringFormat.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\StringFormat\bin\Debug\StringFormat.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\StringFormat\obj\Debug\Practice.csprojResolveAssemblyReference.cache

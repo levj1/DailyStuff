@@ -4,3 +4,9 @@ C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\bin\
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.exe
 C:\Users\James Leveille\Documents\GitHub\Practice\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Users\Marie Lourdes\Documents\GitHub\DailyStuff\StringFormat\ClassLibrary\obj\Debug\ClassLibrary.pdb
