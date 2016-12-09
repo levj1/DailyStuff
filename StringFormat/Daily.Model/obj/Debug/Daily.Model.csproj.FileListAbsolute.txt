@@ -1,0 +1,5 @@
+C:\Users\James Leveille\Documents\GitHub\DailyStuff\StringFormat\Daily.Model\bin\Debug\Daily.Model.dll
+C:\Users\James Leveille\Documents\GitHub\DailyStuff\StringFormat\Daily.Model\bin\Debug\Daily.Model.pdb
+C:\Users\James Leveille\Documents\GitHub\DailyStuff\StringFormat\Daily.Model\obj\Debug\Daily.Model.csprojResolveAssemblyReference.cache
+C:\Users\James Leveille\Documents\GitHub\DailyStuff\StringFormat\Daily.Model\obj\Debug\Daily.Model.dll
+C:\Users\James Leveille\Documents\GitHub\DailyStuff\StringFormat\Daily.Model\obj\Debug\Daily.Model.pdb

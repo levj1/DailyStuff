@@ -92,9 +92,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
-      <Project>{17ef8dc4-4cf3-4522-b65f-0bb8ab5def44}</Project>
-      <Name>ClassLibrary</Name>
+    <ProjectReference Include="..\Daily.Model\Daily.Model.csproj">
+      <Project>{2e76fdd9-f1b9-4bf8-aec2-df24ced1ce3d}</Project>
+      <Name>Daily.Model</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,5 +1,5 @@
-﻿using ClassLibrary;
-using ClassLibrary.Repository;
+﻿using Daily.Model;
+using Daily.Model.Repository;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
