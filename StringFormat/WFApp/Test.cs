@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WFApp
+namespace WindowFormApp
 {
     public partial class Test : Form
     {

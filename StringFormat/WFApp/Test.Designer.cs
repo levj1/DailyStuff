@@ -1,4 +1,4 @@
-﻿namespace WFApp
+﻿namespace WindowFormApp
 {
     partial class Test
     {
