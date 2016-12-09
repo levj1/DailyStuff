@@ -65,9 +65,11 @@ namespace WFApp
             {
                 // call function to add to database
                 Address address = new Address(addressLine1, addressLine2, city, state, zipCode);
-                Contact contact = new Contact(firstName, lastName, address);
+                Contact contact = new Contact(firstName, lastName, email);
+                contact.Address = address;
                 ContactRepository contactRep = new ContactRepository();
                 contactRep.AddContact(contact);
+                Console.WriteLine("Contact added successfully");
             }
             else
             {

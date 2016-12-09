@@ -19,9 +19,11 @@ namespace ClassLibrary
         {
 
         }
-        public Contact(string firstname, string lastname, Address address)
+        public Contact(string firstname, string lastname, string email)
         {
-
+            FirstName = firstname;
+            LastName = lastname;
+            Email = email;
         }
     }
 }

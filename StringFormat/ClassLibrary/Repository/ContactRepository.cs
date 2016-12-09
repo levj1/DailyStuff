@@ -9,11 +9,12 @@ namespace ClassLibrary.Repository
 {
     public class ContactRepository
     {
+        public string ConnStr = @"Data Source=DESKTOP-B7NQGH7;Initial Catalog=test;Integrated Security=True";
+        //public string ConnStr1 = @"Data Source=DESKTOP-B7NQGH7;Initial Catalog=test; Integrated Security=True";
 
         public void AddContact(Contact contact)
         {
-            string conStr = @"Data Source=T1000\SQLEXPRESS;Initial Catalog=test;Integrated Security=True";
-            using (SqlConnection conn = new SqlConnection(conStr))
+            using (SqlConnection conn = new SqlConnection(ConnStr))
             {
                 try
                 {
@@ -22,6 +23,7 @@ namespace ClassLibrary.Repository
                     using (SqlCommand cmd = new SqlCommand(query))
                     {
                         conn.Open();
+                        cmd.Connection = conn;
                         cmd.Parameters.AddWithValue("@firstname", contact.FirstName);
                         cmd.Parameters.AddWithValue("@lastname", contact.LastName);
                         cmd.Parameters.AddWithValue("@email", contact.Email);
